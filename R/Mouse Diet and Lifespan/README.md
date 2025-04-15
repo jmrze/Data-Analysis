@@ -14,7 +14,7 @@ The datasets includes statistics on the life- and healthspan of genetically outb
 ## Datasets
 2 CSV files
 
-## AnimalData_Processed_20230712.csv
+### AnimalData_Processed_20230712.csv
 CSV file with 18 columns:
 * MouseID - individual Mouse ID
 * Generation - Generation of mice (G22 - G28)
@@ -35,7 +35,7 @@ CSV file with 18 columns:
 * AnimalComments	
 * CAST
 
-## WeeklyBW_Processed_20230712.csv
+### WeeklyBW_Processed_20230712.csv
 CSV with 14 columns. Information derived from author-provided ReadMe:
 * MouseID			Unique identifier for each mouse in form of "DO" (indicating the mice are diversity outbred mice), '-', 'XX' (indicating the diet group of the mice), '-', '####' (unique numeric code for each mouse)
 * BWDay			The day of the week on which the weekly BW was usually recorded (calculated from raw weekly BW data)
