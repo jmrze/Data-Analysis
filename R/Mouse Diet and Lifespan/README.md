@@ -1,4 +1,4 @@
-# Intro
+# Description
 
 This folder includes statistical analyis and modelling of a publically-available dataset that was included within a Nature article from October 2024: 
 > Francesco _et al._ (2024) "Dietary restriction impacts health and lifespan of genetically diverse mice" _Nature_ **634**, 684–692. doi: 10.1038/s41586-024-08026-3
