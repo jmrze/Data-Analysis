@@ -6,6 +6,12 @@ This folder includes statistical analyis and modelling of a publically-available
 The datasets includes statistics on the life- and healthspan of genetically outbred female mice. The cohort (_n_ = 960) was equally divided into five separate intervention groups (_n_ = 192 each): _Ad libitum_ (AL), 1-day fasting (1D), 2-day fast (2D), 20% caloric restriction wrt AL group (20%), 40% caloric restriction wrt AL group (40%).
 
 # Files
+
+## Reporting
+* 2421232_report.pdf = Writeup of the results and statistical analyses
+* analysis_code.md = R markdown code used in the analysis
+
+## Datasets
 2 CSV files
 
 ## AnimalData_Processed_20230712.csv
