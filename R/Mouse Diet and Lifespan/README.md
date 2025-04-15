@@ -1,6 +1,6 @@
 # Intro
 
-This folder includes analyses of a publically-available dataset that was included within a Nature article from October 2024: 
+This folder includes statistical analyis and modelling of a publically-available dataset that was included within a Nature article from October 2024: 
 > Francesco _et al._ (2024) "Dietary restriction impacts health and lifespan of genetically diverse mice" _Nature_ **634**, 684–692. doi: 10.1038/s41586-024-08026-3
 
 The datasets includes statistics on the life- and healthspan of genetically outbred female mice. The cohort (_n_ = 960) was equally divided into five separate intervention groups (_n_ = 192 each): _Ad libitum_ (AL), 1-day fasting (1D), 2-day fast (2D), 20% caloric restriction wrt AL group (20%), 40% caloric restriction wrt AL group (40%).
