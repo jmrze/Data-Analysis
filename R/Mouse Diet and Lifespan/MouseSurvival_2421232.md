@@ -1,17 +1,3 @@
----
-title: "Survival and Bodyweight Analysis"
-output:
-  pdf_document: default
-  html_document: default
-date: "2024-11-10"
-editor_options: 
-  chunk_output_type: console
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
