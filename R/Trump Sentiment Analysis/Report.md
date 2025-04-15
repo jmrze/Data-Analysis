@@ -6,7 +6,7 @@ Donald J. Trump, the 45th and again incumbent US president, is one of only two p
 
 However, once again in 2024, Trump won the US election, this time by the popular vote, beating out former Vice President Kamala Harris, and reassuring his role as President in an unprecedented political comeback.
 
-Political theorists hypothesise on how this second term may differ from the first, in light of dramatic social and political changes that have developed globally since 2020.
+Political theorists hypothesise on how this second term may differ from the first, in light of dramatic social and political changes that have developed globally since 2020 in addition to the aftermath of the attempted assassinations.
 
 This report includes a Comparative Textual Analysis of both the 2017 and 2025 Trump Inaugural Addresses in order to assess general Textual features in addition to sentiment and how this may reflect a development in the rhetoric of Trump.
 
