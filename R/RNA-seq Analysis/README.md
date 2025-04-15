@@ -5,6 +5,7 @@ This folder includes analyses of a sample RNA sequencing dataset provided by the
 The datasets includes read-count data from derived from primary cardiac fibroblasts in 10 healthy individuals (control) and 13 individuals who have ischaemic heart disease.
 
 # Files
+4 CSV (tab-delimited) files included in RNA-seq analysis
 
 ## annotations.csv
 csv file - 5 columns:
