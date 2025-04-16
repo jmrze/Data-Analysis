@@ -4,6 +4,21 @@ This folder includes analyses of a sample RNA sequencing dataset provided by the
 
 The datasets includes read-count data from derived from primary cardiac fibroblasts in 10 healthy individuals (control) and 13 individuals who have ischaemic heart disease.
 
+# Figures
+
+## Figure 1
+![RNA-seq Figure 1](RNA-seq_figure_1.jpg)
+
+## Figure 2
+![RNA-seq Figure 2](RNA-seq_figure_2.jpg)
+
+## Figure 3
+![RNA-seq Figure 3](RNA-seq_figure_3.jpg)
+
+## Figure 4
+![RNA-seq Figure 4](RNA-seq_figure_4.jpg)
+
+
 # Files
 
 ## Reporting
