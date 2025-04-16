@@ -6,7 +6,7 @@ Donald J. Trump, the 45th and again incumbent US president, is one of only two p
 
 However, in 2024 Trump won the US election, this time by popular vote, beating out former Vice President Kamala Harris, and reassuming his role as President in an unprecedented political comeback. Political theorists hypothesise on how this second term may differ from the first, in light of dramatic social and political changes that have developed globally since 2020 in addition to the aftermath of the two attempted assassinations on Trump.
 
-This report includes a Comparative Textual Analysis of both the 2017 and 2025 Trump Inaugural Addresses in order to assess general Textual features in addition to sentiment and how this may reflect a development in the rhetoric of Trump.
+This analysis includes a visualisations of a comparative textual analysis of both the 2017 and 2025 Trump Inaugural Addresses in order to assess general textual features in addition to sentiment and how this may reflect a development in the rhetoric of Trump. 
 
 ## Results
 >![Description](https://github.com/jmrze/Data-Analysis/blob/main/R/Trump%20Sentiment%20Analysis/Trump_Figure_1.jpg)
