@@ -10,6 +10,7 @@ This report includes a Comparative Textual Analysis of both the 2017 and 2025 Tr
 
 ## Results
 >![Description](https://github.com/jmrze/Data-Analysis/blob/main/R/Trump%20Sentiment%20Analysis/Rplot01.png)
-Figure 1: Word frequency bar chart of the top 25 most common words in the 2017 and 2025 Inaugural addresses respectively.
+>Figure 1: Word frequency bar chart of the top 25 most common words in the 2017 and 2025 Inaugural addresses respectively.
 
->
+>![Description](https://github.com/jmrze/Data-Analysis/blob/main/R/Trump%20Sentiment%20Analysis/venn1.png)
+>Figure 2: Venn diagram, comparing common word usage between the 2017 and 2025 Inaugural Addresses
