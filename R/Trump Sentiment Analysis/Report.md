@@ -9,8 +9,8 @@ However, in 2024 Trump won the US election, this time by popular vote, beating o
 This report includes a Comparative Textual Analysis of both the 2017 and 2025 Trump Inaugural Addresses in order to assess general Textual features in addition to sentiment and how this may reflect a development in the rhetoric of Trump.
 
 ## Results
->![Description](https://github.com/jmrze/Data-Analysis/blob/main/R/Trump%20Sentiment%20Analysis/Rplot01.png)
->Figure 1: Word frequency bar chart of the top 25 most common words in the 2017 and 2025 Inaugural addresses respectively.
+>![Description](https://github.com/jmrze/Data-Analysis/blob/main/R/Trump%20Sentiment%20Analysis/Trump_Figure_1.jpg)
+>Figure 1: (Left) Word frequency bar chart of the top 25 most common words in the 2017 and 2025 Inaugural addresses respectively. (Right) Venn diagram, comparing common word usage between the 2017 and 2025 Inaugural Addresses.
 
->![Description](https://github.com/jmrze/Data-Analysis/blob/main/R/Trump%20Sentiment%20Analysis/venn1.png)
->Figure 2: Venn diagram, comparing common word usage between the 2017 and 2025 Inaugural Addresses
+>![Description](https://github.com/jmrze/Data-Analysis/blob/main/R/Trump%20Sentiment%20Analysis/Trump_Figure_2.jpg)
+>Figure 2: (Left) Word count per sentence over the duration of the 2017 (top) and 2025 (bottom) inaugural addresses. The x-axis represents the normalised duration of the speech between 0 and 1. (Right) Expression density plot showing the distribution of sentence word counts of the two inaugural addresses.
