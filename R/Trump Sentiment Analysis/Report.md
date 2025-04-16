@@ -9,3 +9,7 @@ However, in 2024 Trump won the US election, this time by popular vote, beating o
 This report includes a Comparative Textual Analysis of both the 2017 and 2025 Trump Inaugural Addresses in order to assess general Textual features in addition to sentiment and how this may reflect a development in the rhetoric of Trump.
 
 ## Results
+>![Description](https://github.com/jmrze/Data-Analysis/blob/main/R/Trump%20Sentiment%20Analysis/Rplot01.png)
+Figure 1: Word frequency bar chart of the top 25 most common words in the 2017 and 2025 Inaugural addresses respectively.
+
+>
