@@ -14,3 +14,6 @@ This analysis includes a visualisations of a comparative textual analysis of bot
 
 >![Description](https://github.com/jmrze/Data-Analysis/blob/main/R/Trump%20Sentiment%20Analysis/Trump_Figure_2.jpg)
 >Figure 2: (Left) Word count per sentence over the duration of the 2017 (top) and 2025 (bottom) inaugural addresses. The x-axis represents the normalised duration of the speech between 0 and 1. (Right) Expression density plot showing the distribution of sentence word counts of the two inaugural addresses.
+
+>![Description](sentiment.png)
+>Figure 3: (Left) Analysis of the two key words of speeches for sentiment (i.e all words minus stopwords). (Top Left) Comparative counts of words of different sentiment groups according to the bing sentiment corpus. (Top Left) Comparative counts of words of different sentiment groups according to the NRC sentiment corpus. (Right) Density plot of the distribution of scores per keyword according to the Afinn sentiment scoring system (negative values reflect negative sentiment and positive values reflect positive sentiment)
