@@ -17,3 +17,8 @@ This analysis includes a visualisations of a comparative textual analysis of bot
 
 >![Description](sentiment.png)
 >Figure 3: (Left) Analysis of the two key words of speeches for sentiment (i.e all words minus stopwords), with proportion referring to the proportion of words that belong to these categories out of the total word count minus stopwords (_n_(2017) = 538, _n_(2025) = 1124). (Top Left) Comparative counts of words of different sentiment groups according to the bing sentiment corpus. (Top Left) Comparative counts of words of different sentiment groups according to the NRC sentiment corpus. (Right) Density plot of the distribution of scores per keyword according to the Afinn sentiment scoring system (negative values reflect negative sentiment and positive values reflect positive sentiment)
+
+>![Description](sentiment.png)
+>Figure 4: (Left) Analysis of the two key words of speeches for sentiment (i.e all words minus stopwords), with proportion referring to the proportion of words that belong to these categories out of the total word count minus stopwords (_n_(2017) = 538, _n_(2025) = 1124). (Top Left) Comparative counts of words of different sentiment groups according to the bing sentiment corpus. (Top Left) Comparative counts of words of different sentiment groups according to the NRC sentiment corpus. (Right) Density plot of the distribution of scores per keyword according to the Afinn sentiment scoring system (negative values reflect negative sentiment and positive values reflect positive sentiment)
+
+
