@@ -8,3 +8,8 @@ This analysis primarily covers the following areas:
 - Visualisation with Matplotlib/Seaborn
 - Principal component analysis with SciKit-Learn
 - Neural Network modelling with Keras
+
+# Files
+- pima_neural.net.ipynb - Jupyter lab notebook containing annotated code and a concise concluding report
+- pima_neuralnet.py - python script to run the neural network independently
+- diabetes_pima.csv - csv file containing the analysed data
