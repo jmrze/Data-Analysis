@@ -6,7 +6,6 @@ from keras.models import Sequential
 from keras.layers import Dense
 
 # dataset
-#df = pd.read_csv('/home/james/Documents/analysis/python/Diabetes_practice/diabetes_pima.csv')
 df = pd.read_csv('diabetes_pima.csv')
 
 # input/target split
