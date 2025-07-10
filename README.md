@@ -4,7 +4,7 @@ Welcome to my portfolio. I am James, I hold an MSci in Genetics with Data Scienc
 I have particularly focused on work conducted in R, which formed a significant part of my degree work.
 
 ## CV
-[![CV Preview](./1.jpg)](./CV_Morris_2025.pdf)
+[![CV Preview](./1.jpg)](./CV_Morris_25.pdf)
 
 
 Thanks
