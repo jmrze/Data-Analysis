@@ -6,7 +6,7 @@ The programme prompts users to choose the borough and neighbourhood in these bor
 
 # Example Plot
 
-An exemplar plot, displaying Airbnb listings in Harlem where price is mapped to 'reviews per month' and size is mapped to 'price' is shown and accessible [Here](https://jmrze.github.io/Data-Analysis/exemplar_plot.html)
+An exemplar plot, displaying Airbnb listings in Harlem where colour is mapped to 'reviews per month' and size is mapped to 'price' is shown and accessible [Here](https://jmrze.github.io/Data-Analysis/exemplar_plot.html)
 
 
 
