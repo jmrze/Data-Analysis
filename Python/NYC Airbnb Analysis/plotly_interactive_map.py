@@ -3,7 +3,7 @@
 import plotly.express as px
 import pandas as pd
 
-df = pd.read_csv("AB_NYC_2019.csv")
+df = pd.read_csv("/home/james/Documents/analysis/sql/airbnb/AB_NYC_2019.csv")
 
 # borough input
 
@@ -73,7 +73,7 @@ while True:
 print(num_vars)
 
 while True:
-    size_var = input("\nchoose continuous variable for colour: ")
+    size_var = input("\nchoose continuous variable for size: ")
     if size_var in num_vars:
         break
     else:
@@ -96,7 +96,7 @@ cat_vars = ['room_type', 'neighbourhood'] # additional categorical variables for
 for var in cat_vars:
     hover_vars.append(var)
 
-color_scale = 'cividis'
+color_scale = 'viridis'
 
 fig = px.scatter_map(df_neighbourhood, 
                         lat="latitude", 
@@ -106,6 +106,8 @@ fig = px.scatter_map(df_neighbourhood,
                         color=col_var,
                         opacity=0.8,
                         color_continuous_scale=color_scale,
+                        range_color=[df_neighbourhood[col_var].min(),
+                                     df_neighbourhood[col_var].max()],
                         size=size_var,
                         zoom=11, 
                         height=800,
@@ -115,3 +117,5 @@ fig.update_layout(mapbox_style="open-street-map")
 fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
 
 fig.show()
+
+fig.write_html('exemplar_plot.html')
