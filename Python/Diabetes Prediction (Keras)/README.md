@@ -2,6 +2,8 @@
 
 This analysis is concerned with an inital exploration of the Pima diabetes dataset that captures several physiological features of women with and without diabetes in a subset of the indian Pima population. Following initial analysis for correlation of features with diabetes outcome (0 = non-diabetic, 1 = diabetic), the data was split into training and test sets in order to train a single-hidden layer neural network for diabetes outcome prediction on the basis of the recorded variables. The final neural network model was able to predict diabetes outcome with an accuracy of **74%**.
 
+![Correlation of Factors in Type 2 Diabetes in this data](corr_diabetes.png)
+
 # Overview
 This analysis primarily covers the following areas:
 - Data analysis with Pandas
