@@ -4,7 +4,7 @@ Welcome to my portfolio. I am James, I hold an MSci in Genetics with Data Scienc
 I have particularly focused on work conducted in R, which formed a significant part of my degree work, in addition to Python, SQL and Linux/Unix Bash scripting
 
 ## CV
-[![CV Preview](./1.jpg)](./CV_Morris_25.pdf)
+[![CV Preview](./cv_img.png)](./CV_2508H.pdf)
 
 
 Thanks
