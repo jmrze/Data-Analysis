@@ -2,7 +2,7 @@
 
 ############################## PIPELINE ###############################
 #
-#   top output - batch of 5 iterations
+#   top output - batch mode
 #                 V
 #   sed - exclude 1st seven lines (boilerplate)
 #                 V
